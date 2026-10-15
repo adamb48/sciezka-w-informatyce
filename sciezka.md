@@ -15,3 +15,4 @@ i use arch btw
 >programowanie
 znajomość python na poziomie wysokim, znajomość csharp na poziomie niskim
 ## Cele na studiach
+nauka, przygotowanie do zawodu w branży IT w przyszłości
