@@ -1,4 +1,5 @@
 # Moja ścieżka w informatyce
+
 ## Imię Nazwisko
 Adam B
 
